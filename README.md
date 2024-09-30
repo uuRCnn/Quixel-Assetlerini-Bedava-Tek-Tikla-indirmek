@@ -1,5 +1,7 @@
 # Quixel-assetini-bedava-tek-tikla-indirmek
 
+Videolu anlatım : https://www.youtube.com/watch?v=UtgduQD6nzk
+
 [**run.js**](#runjs)
 
 ```javascript
