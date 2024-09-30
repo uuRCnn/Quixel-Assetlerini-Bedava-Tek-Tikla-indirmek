@@ -1,4 +1,4 @@
-# Quixel-assetini-bedava-tek-tikla-indirmek
+# Quixel-Assetler'ini-Bedava-Tek-Tikla-indirmek
 
 Videolu anlatım : https://www.youtube.com/watch?v=UtgduQD6nzk
 
