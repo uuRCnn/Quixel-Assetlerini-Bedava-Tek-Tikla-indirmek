@@ -1,6 +1,8 @@
 # Quixel-assetini-bedava-tek-tikla-indirmek
 
-'
+[**run.js**](#runjs)
+
+```javascript
 ((async (startPage = 0, autoClearConsole = true) => {
 
   const getCookie = (name) => {
@@ -115,4 +117,5 @@
 
   alert(`-> Your account now have a total of ${newItemsAcquired} out of ${newTotalCount} items.\n\nIf you find some items missing, try refresh the page and run the script again.`)
 })())
-'
+
+```
