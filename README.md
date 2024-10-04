@@ -2,6 +2,8 @@
 
 Videolu anlatım : https://www.youtube.com/watch?v=UtgduQD6nzk
 
+Eğer aşagıdaki kod hata verirse Bunu deneyin : https://gist.githubusercontent.com/jamiephan/0c04986c7f2e62d5c87c4e8c8ce115fc/raw/fdcd5e86830a550a8854af7edbc1a4ef21b2e9c0/run.js
+
 [**run.js**](#runjs)
 
 ```javascript
